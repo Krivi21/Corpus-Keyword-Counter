@@ -1,2 +1,2 @@
 # Corpus-Keyword-Counter
-Concurrent keyword counter, IDE Eclipsedsds
+Concurrent keyword counter, IDE Eclipse
